@@ -2,6 +2,7 @@
 
 /**
  * Test: Nette\PhpGenerator generator.
+ * @phpversion 5.4
  */
 
 namespace
